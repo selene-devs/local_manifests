@@ -17,8 +17,7 @@
  <!-- Extras -->
   <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="thirteen"/>
   <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi" remote="github" revision="thirteen"/>
-  <project path="hardware/mediatek" name="mt6768-dev/android_hardware_mediatek" remote="github" revision="lineage-20"/>
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="selene" revision="lineage-20"/>
   <project path="packages/apps/MtkFMRadio" name="mt6768-dev/android_packages_apps_MtkFMRadio" remote="github" revision="lineage-20"/>
-
 
 </manifest>
